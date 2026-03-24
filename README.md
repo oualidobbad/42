@@ -1,23 +1,15 @@
-# 42
+    # 42
 
-## Description
-Meta repository for 42 cursus materials, notes, and shared resources.
+    Meta repository for 42 cursus material, notes, and shared resources to speed up project delivery.
 
-## Features
-- Centralized notes and references for projects.
-- Organizational hub for coursework artifacts.
+    ## Contents
+    - Checklists: submission prep, norm rules, and common pitfalls per project.
+    - Snippets: reusable shell/C/C++ helpers and templates.
+    - References: links and summaries for subject PDFs, evaluation tips, and debugging guides.
 
-## Technologies Used
-- Markdown, assorted scripts.
+    ## Usage
+    - Browse Markdown notes before starting a project; copy snippets where allowed by school policy.
+    - Keep personal additions organized by project to avoid mixing deliverables.
 
-## Installation
-- No build; clone to browse.
-
-## Usage
-- Read notes and reuse snippets across projects.
-
-## Example
-- Consult checklists before submissions.
-
-## Author
-- Oualid Obbad (@oualidobbad)
+    ## Author
+    Oualid Obbad (@oualidobbad)
